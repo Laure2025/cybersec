@@ -1,0 +1,2 @@
+avertissement : memoire pleine
+ erreur: mot de passe incorrect
